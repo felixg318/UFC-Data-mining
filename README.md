@@ -9,7 +9,7 @@ Predicting UFC fight outcomes using fighter statistics, physical attributes, and
 ## Dataset
 
 - **Source**: `ufc-master.csv`
-- **Link**: [Link Text](https://www.kaggle.com/datasets/mdabbert/ultimate-ufc-dataset)
+- **Link**: [Dataset source](https://www.kaggle.com/datasets/mdabbert/ultimate-ufc-dataset)
 
 ### Installation
 
